@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEVELOPMENT_APP_KEY</key>
+	<string>4a7b716ee286ac81d67118b9b901742af1635b98b6ef1cf402587fb2d2247170</string>
+	<key>DEVELOPMENT_APP_SECRET</key>
+	<string>4edff6d8ef0a43968516f46b24d1864fa5251e878473560ea3379f93a039fde0</string>
+	<key>PRODUCTION_APP_KEY</key>
+	<string>4a7b716ee286ac81d67118b9b901742af1635b98b6ef1cf402587fb2d2247170</string>
+	<key>PRODUCTION_APP_SECRET</key>
+	<string>4edff6d8ef0a43968516f46b24d1864fa5251e878473560ea3379f93a039fde0</string>
+	<key>DEVELOPMENT</key>
+	<true/>
+	<key>RESOURCE_BUNDLE</key>
+	<string>DefaultTheme.bundle</string>
+	<key>OPTIONS</key>
+	<dict>
+		<key>APP_RUNS_ON_BACKGROUND</key>
+		<false/>
+		<key>USE_SAFARI_VIEW</key>
+		<true/>
+		<key>URL_SCHEMES</key>
+		<array>
+			<string>test</string>
+		</array>
+		<key>IMAGES_SHARING</key>
+		<true/>
+		<key>BACKGROUND_COLOR</key>
+		<string>FFFFFF</string>
+		<key>TOOLBAR_COLOR</key>
+		<string>FFFFFF</string>
+		<key>NAVBAR_COLOR</key>
+		<string>FFFFFF</string>
+		<key>ACTIVITY_INDICATOR_COLOR</key>
+		<string>000000</string>
+		<key>TITLE_COLOR</key>
+		<string>000000</string>
+		<key>BUTTONS_TEXT_COLOR</key>
+		<string>000000</string>
+		<key>TEXTFIELD_TEXT_COLOR</key>
+		<string>000000</string>
+		<key>TEXTFIELD_BACKGROUND_COLOR</key>
+		<string>E5E5EA</string>
+	</dict>
+</dict>
+</plist>

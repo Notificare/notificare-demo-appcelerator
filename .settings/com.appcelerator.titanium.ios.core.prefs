@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=notificare-demo-appcelerator
+iosLaunchConfigurationAttributes/ATTR_UPLOAD_DEBUG_SYMBOLS=false
+iosLaunchConfigurationAttributes/appid=re.notifica.titaniumtest
+iosLaunchConfigurationAttributes/certificate=Joris Verbogt (YKP2N8X783)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=10.1
+iosLaunchConfigurationAttributes/uuid=19543ac5-cf3e-4044-8300-50209f4a80b7
